@@ -1,2 +1,2 @@
 # Projet-Test-de-Qi
-Projet Test de Qi PHP
+Projet Test de QI PHP
