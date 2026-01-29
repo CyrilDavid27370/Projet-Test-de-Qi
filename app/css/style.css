@@ -10,32 +10,23 @@ html{
 
 
 body{
-
-
-    background-color: rgb(34, 34, 34);
-    
+    color:white;
+    background-color: rgb(8, 8, 8);
 }
 
 h1{
-    color:white;
     text-align: center;
     font-family: sans-serif;
     margin-bottom: 50px;
     margin-top: 50px;
-
+    margin-right: 150px;
 }
 
 img{
-width: 400px;
-margin-left: 750px;
-margin-top: 2px;
-padding-top: 30px;
-
-
-    
+    width: 300px;
+    padding-top: 30px;
+    margin: 2px 700px 0 700px;   
 }
-
-
 footer{
     
     margin: 20px;
@@ -44,28 +35,24 @@ footer{
     justify-content: center;
     align-items: center;
     margin-top: 200px;
-    
-
+    margin-right: 200px;
 }
 
 p{
-    color:rgb(189, 188, 188);
     display: flex;
-    justify-content: center;
-    margin-left: 100px;
-    margin-right: 50px;
-    margin-top: 100px;
-    margin-bottom: 20px;
-
-    
-    
-    
-    
-
+    margin: 100px 50px 20px 100px;
 }
 
 a{
     color: green;
     margin-left: 100px;
-    
+}
+
+form{
+    margin-left: 100px;
+}
+
+.p1{
+    margin-left: 1px;
+    margin-top: 20px;
 }
