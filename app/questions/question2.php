@@ -32,5 +32,16 @@ if (!empty($_POST)) {
    }    
 }
 */
+
 ?>
+
+<form action="../questions/question3.php" method="post">
+   <h2>Question2</h2>
+   <p class="p1">Qu'est-ce qu'un quart de deux tiers de 9000?</p>
+   <label for="reponse">Réponse</label>
+   <input type="number" name ="reponse" min="1000"  max="3000"  step="500"  required> <br>
+   <input type="submit" value = "valider">
+</form>
+
+
 
