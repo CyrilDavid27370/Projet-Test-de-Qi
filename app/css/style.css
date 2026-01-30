@@ -1,64 +1,73 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
-html{
-
-    overflow: hidden;
-}
 
 
 body{
     color:white;
     background-color: rgb(8, 8, 8);
-}
 
-h1{
-    text-align: center;
-    font-family: sans-serif;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    margin-right: 150px;
+
+
+
+    
+
 }
 
 header{
+    text-align: center;
+    justify-content: center;
 
-    margin:0;
-    padding: 0;
-}
-
-img{
-    width: 300px;
-    padding-top: 30px;
-    margin: 2px 700px 0 700px;   
-}
-footer{
     
-    margin: 20px;
-    height: 50px;
+}
+
+h1{
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+ header>img{
+    
+    width: 200px;
+    padding-top: 20px;
+    
+
+}
+
+footer  {
+
     display: flex;
     justify-content: center;
-    align-items: center;
-    margin-top: 200px;
-    margin-right: 200px;
-}
+    align-items: center
 
-p{
-    display: flex;
-    margin: 100px 50px 20px 100px;
+    
 }
 
 a{
     color: green;
-    margin-left: 100px;
+
 }
 
 form{
     margin-left: 100px;
 }
 
-.p1{
-    margin-left: 1px;
-    margin-top: 20px;
+
+
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    
+
 }
+
+.cube{
+     
+    width: 40%;
+    
+
+}
+
+
+

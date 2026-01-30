@@ -16,7 +16,7 @@ if(!empty($_POST)){
 
 ?>
 <main>
-    <div>
+    <div class="description">
         <h1>question3</h1>
         <img class ="cube"src="../images/dice.jpg" alt="imge cube">
     </div>  

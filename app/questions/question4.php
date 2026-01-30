@@ -20,10 +20,4 @@ var_dump($score);
 
 ?>
 
-     <h1>question4</h1>
-    <p>kate , johanna et nathalie sont toutes les trois soeurs. Si les affirmations suivantes sont toutes vraies,laquelle d'entre elles est la plus jeune?</p>
-     <ul>
-        <li>kate et </li>
-        <li></li>
-        <li></li>
-     </ul>
+   
