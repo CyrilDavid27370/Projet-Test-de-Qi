@@ -3,28 +3,21 @@
 body{
     color:white;
     background-color: rgb(8, 8, 8);
-
-
-
-
-    
-
 }
 
 header{
     text-align: center;
     justify-content: center;
 
-    
 }
 
 h1{
     font-family: sans-serif;
     margin-top: 50px;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
 }
 
- header>img{
+header>img{
     
     width: 200px;
     padding-top: 20px;
@@ -32,14 +25,19 @@ h1{
 
 }
 
+p{
+    margin: top 50px;
+    margin-bottom: 50px;
+}
+
 footer  {
 
     display: flex;
     justify-content: center;
-    align-items: center
-
-    
+    align-items: center;
+    margin-top:300px;
 }
+
 
 a{
     color: green;
@@ -57,16 +55,10 @@ main {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-
-    
-
 }
 
 .cube{
-     
     width: 40%;
-    
-
 }
 
 
