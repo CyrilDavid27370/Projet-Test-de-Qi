@@ -18,3 +18,10 @@ if(!empty($_POST)){
     }
     $_SESSION ['score'] = $_SESSION ['score'] + $score;
 ?>
+
+<div class="space">
+<h1>votre résultat</h1>
+<p>vous avez un quotient intellectuele de 80.
+<p>il est temps de remetrre votre cerveau au travail !</p><br>
+<p>pour passer untest de Qi grandeur nature,n'éshitez pas à contacter M.cuy psychologue de l'esprit au 06.01.01.01.01</p>
+  <a href="">Retour à l'acceuil</a></div>
