@@ -1,8 +1,14 @@
 
+* html{
 
-body{
+
+    padding: 0;
+}
+  body{
+
     color:white;
     background-color: rgb(8, 8, 8);
+    margin-bottom: 20px;
 }
 
 header{
@@ -20,27 +26,31 @@ h1{
 header>img{
     
     width: 200px;
-    padding-top: 20px;
+    padding-top: 100px;
+    margin-top: 0%;
+
     
 
 }
 
 p{
-    margin: top 50px;
-    margin-bottom: 50px;
+    margin: top 10px 0 ;
+
 }
 
 footer  {
 
     display: flex;
-    justify-content: center;
     align-items: center;
-    margin-top:300px;
+    justify-content: center;
+    padding-top: 50px;
+
+
 }
 
 
 a{
-    color: green;
+    color: rgb(5, 235, 5);
 
 }
 
@@ -55,10 +65,20 @@ main {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    margin-top: -10%;
+
+}
+
+
+.description {
+
+    margin-bottom: 20px;
 }
 
 .cube{
-    width: 40%;
+    width: 30%;
+    margin: 0%;
+    padding-bottom: 0;
 }
 
 
@@ -71,6 +91,7 @@ align-items: center;
 justify-content: center;
 background-color: rgb(115, 115, 116);
 width: 100vw;
+
 
 
 }

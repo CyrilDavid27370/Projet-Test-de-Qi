@@ -43,5 +43,7 @@ if (!empty($_POST)) {
    <input type="submit" value = "valider">
 </form>
 
-
+  <?php
+require('../shared/closeHtml.php'); 
+?>
 
