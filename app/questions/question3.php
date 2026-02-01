@@ -4,7 +4,7 @@ require('../shared/openHtml.php');
 
 
 if(!empty($_POST)){
-     $answer = $_POST['reponse'];
+    $answer = $_POST['reponse'];
     if ($answer ==='1500'){
         $score = 20;
     }else {
@@ -25,11 +25,11 @@ if(!empty($_POST)){
         <form action="../questions/question4.php" method="post">
             <p class= "p2"> À quoi ressemblera le cube fini?</p>
             <label for="response"></label>
-          <label><input type="radio" name="reponse" value ="A" >A </label><br>
-          <label><input type="radio" name="reponse" value ="B" >B</label><br>
-          <label><input type="radio" name="reponse" value ="C" >C</label><br>
-          <label><input type="radio" name="reponse" value ="D" >D</label><br>
-            <input type="submit" value ="valider">
+        <label><input type="radio" name="reponse" value ="A" >A </label><br>
+        <label><input type="radio" name="reponse" value ="B" >B</label><br>
+        <label><input type="radio" name="reponse" value ="C" >C</label><br>
+        <label><input type="radio" name="reponse" value ="D" >D</label><br>
+        <input type="submit" value ="valider">
         </form>
     </div>
 </main> 

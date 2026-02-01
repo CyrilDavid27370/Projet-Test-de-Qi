@@ -61,5 +61,18 @@ main {
     width: 40%;
 }
 
+.container {
+    border:  1px solid ;
+    border-radius: 10px;
+    text-align: center;
+    background-color: grey;
+    margin: auto;
+}
+.resultat {
+    text-align: center;
+    background-color: #333;
+    margin: 1px;
+    padding: 10px;
+}
 
 
