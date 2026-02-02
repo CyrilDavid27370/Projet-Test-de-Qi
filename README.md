@@ -4,5 +4,5 @@ Test de QI
 Projet d'application en PHP en binome
 HTML CSS et PHP
 https://github.com/CyrilDavid27370/Projet-Test-de-Qi
-Lien vers le Jira
+https://zem470.atlassian.net/jira/software/projects/KAN/boards/1
 Cyril DAVID, Hakim ZEMMOURI
