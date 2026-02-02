@@ -3,6 +3,7 @@ session_start();
 require('../shared/openHtml.php');
 
 
+
 if(!empty($_POST)){
     $answer = $_POST['reponse'];
     if ($answer ==='1500'){
@@ -37,6 +38,7 @@ if(!empty($_POST)){
 <?php
 require('../shared/closeHtml.php'); 
 ?>
+
 
 
     

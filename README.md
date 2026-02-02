@@ -5,4 +5,4 @@ Projet d'application en PHP en binome
 HTML CSS et PHP
 https://github.com/CyrilDavid27370/Projet-Test-de-Qi
 Lien vers le Jira
-Cyril DAVID
+Cyril DAVID, Hakim ZEMMOURI

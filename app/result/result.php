@@ -16,6 +16,7 @@ if(!empty($_POST)){
       $score = 0;
     }
     }
+
     $_SESSION ['score'] = $_SESSION ['score'] + $score;
 ?>
 
@@ -49,3 +50,5 @@ if ($qi === 60) {
 <?php
 require('../shared/closeHtml.php'); 
 ?>
+
+
